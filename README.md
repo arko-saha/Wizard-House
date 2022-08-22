@@ -1,2 +1,2 @@
 # Wizard-House
-A simple guessing game which decides the Hogwarts house you really belong to.
+A simple guessing game that decides the Hogwarts house you really belong to.
